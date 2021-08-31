@@ -1,4 +1,4 @@
-# Menteclara
+# RBU coin (RBU) Smart Contract: 0xf512085aec83e834b9798275e8e93e963ffd1a5d
 Apoyar con  una Renta Básica Universal (RBU) a la mayor cantidad de personas en el mundo. 
 
 <b>Socializando las riquezas producidas por la tecnología.</b>
