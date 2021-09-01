@@ -56,7 +56,7 @@ Tratemos de lograr que la mayor cantidad de personas puedan lograr un ingreso pa
 
  
 <hr>
-<b> (1) </b>*Que debería ser la RBU para la FMC
+<b> (1)  Que debería ser la RBU para la FMC:</b>
 
 1- *¿Todos tienen derecho a la Renta Básica Universal? Ricos y Pobres.*
 
