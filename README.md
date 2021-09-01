@@ -17,33 +17,33 @@ De estas reflexiones surgió como posible solución la Renta Básica Universal p
 
 Viendo que algunos países ya la han implementado y que así mismo la RBU estaría apoyada por personalidades destacadas del mundo económico y empresarial, entendimos que era factible y comenzamos a respondernos algunos interrogantes de los que extrajimos las siguiente conclusiones acerca de cómo debería implementarse esta RBU. (1)
 
-Precipitada la necesidad de esta RBU con la pandemia, resolvimos dejar la arena académica para influir en el pensamiento de los líderes políticos del área de influencia de la Fundación MenteClara Internacional, es decir países hispanoparlantes y la India, para su urgente implementación. Único camino posible para que una persona desempleada, y por ende “cuentapropista”, pueda quedarse en aislamiento social sin poder trabajar.
+Precipitada la necesidad de esta RBU por la pandemia, resolvimos dejar la arena académica para influir en el pensamiento de los líderes políticos del área de influencia de la Fundación MenteClara Internacional, es decir países hispanoparlantes y la India, para su urgente implementación. Único camino posible para que una persona desempleada, y por ende “cuentapropista”, pueda quedarse en aislamiento social sin trabajar.
 
 Con este fin, desde mediados del 2020 comenzamos a crear y participar activamente en foros sobre RBU (https://www.facebook.com/groups/670014780378586) y también convocar a dirigentes políticos  latinoamericanos (https://www.youtube.com/playlist?list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n) sin distinción de partidos o ideologías, para que conocieran nuestras conclusiones y expusieran sus ideas sobre las acciones legislativas a realizar desde sus bancas y que los legisladores de estos países puedan comenzar a pensar la RBU como solución transitoria a esta terrible pandemia y solución a largo plazo al último derecho humano que deberíamos conquistar para poder tener salud para todos, educación para todos y alimentación y vivienda para todos, como nos corresponde por ser todos hermanos y copropietarios del planeta que habitamos.
 
-Durante estas accione, en Argentina específicamente, solo logramos unificar nuestras ideas sobre la RBU con muy pocos dirigentes políticos.
+Durante estas accione, en Argentina específicamente, solo logramos unificar nuestras ideas sobre la RBU con unos pocos dirigentes políticos.
 
-Algo que interpretamos, luego de meses de arduos esfuerzos es que solo en aquellos países desarrollados y con un alto nivel de ingresos y calidad de vida, se está implementando este ingreso básico asegurado. Paradójicamente, en los países pobres, donde su implementación debería ser URGENTE, tal como recomienda la ONU, es en donde los políticos se muestran más refractarios a esta idea que lejos de significar un mayor gasto social lo achicaría tal como lo señalan:
+Algo que interpretamos, luego de meses de arduos esfuerzos, es que solo en aquellos países desarrollados, con un alto nivel de ingresos y óptima calidad de vida, se está implementando este ingreso básico asegurado. Paradójicamente, en los países pobres, donde su implementación debería ser URGENTE, tal como recomienda la ONU, es en donde los políticos se muestran más refractarios a esta idea que lejos de significar un mayor gasto social lo achicaría tal como lo señalan:
 Mario Mazzitelli (https://www.youtube.com/watch?v=_TsAPe2zaJ0&list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n&index=10)
 Naum Klilksberg (https://www.youtube.com/watch?v=WNtLOawyR_s&list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n&index=12)
 Juan Valerdi (https://www.youtube.com/watch?v=y-LE_mNvdec&list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n&index=13)
 Alejandro Crivisqui (https://www.youtube.com/watch?v=wJwkKr1I4ok&list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n&index=4) y
 Carlos Valle (https://www.youtube.com/watch?v=1K4cqrFDnPQ&list=PLFvMnK_nWTRsHeiofpe1JyFqhVZYe7m8n&index=2&t=21s) entre otros.
 
-Es por lo antedicho, viendo que será imposible la implementación de la RBU en Latinoamérica e India, que resolvimos lanzar un proyecto para ayudar, desde nuestra fundación, de manera individual, individuo por individuo, a que recuperen un ingreso básico utilizando las herramientas que creo la propia tecnología que los dejo sin empleo como el mercado de cryptodivisa.
+Es por lo antedicho, viendo que será imposible la implementación URGENTE de la RBU en Latinoamérica e India, es que resolvimos lanzar un programa para ayudar, desde nuestra fundación, de manera individual, individuo por individuo, a que recuperen un ingreso básico utilizando las herramientas que creo la propia tecnología que los dejo sin empleo como lo es el mercado de cryptodivisa.
 
-Luego de meses de estudios e implementaciones experimentales acerca del minado de cryptomonedas ponemos ese conocimiento al alcance de personas que hayan sido despedidas de sus trabajos o estén el condiciones laborales en extremo flexibilizadas –esclavitud encubierta- para que puedan iniciarse en el minado de cryptomonedas utilizando como banco para ahorrar las criptomonedas que obtengan Binance Smar Chain y como billetera para gastarlas como deseen Metamax.
+Luego de meses de estudios e implementaciones experimentales acerca del minado de cryptomonedas ponemos ese conocimiento al alcance de personas que hayan sido despedidas de sus trabajos o estén el condiciones laborales en extremo flexibilizadas –esclavitud encubierta-, para que puedan iniciarse en el minado de cryptomonedas utilizando como "banco" para ahorrar las criptomonedas que obtengan <b>Binance Smar Chain</b> y como "billetera" para gastarlas como deseen <b>Metamax</b>.
 
-Utilizando la red de binance también creamos una cripto divisa llamada RBU coin (RBU) para que puedan aprender a comprar y vender en un entorno seguro y de muy bajo costo en feeds además de  colaborar con nuestra fundación para brindar la mayor cantidad de cursos y asistencia individual para que la mayor cantidad de personas puedan, con una pc –utilizando cpu y/o gpu- puedan comenzar a producir sus primeros dólares en xmr o eht, sin necesidad de equipos costosos de minería.
+Utilizando la red de Binance también creamos una cripto divisa llamada RBU coin (<b>RBU</b>) para que puedan aprender a comprar y vender en un entorno seguro y de muy bajo costo en feeds además de  colaborar con nuestra fundación para brindar la mayor cantidad de cursos y asistencia individual para que la mayor cantidad de personas puedan, con una PC –utilizando cpu y/o gpu- comenzar a producir sus primeros dólares en xmr o eht, sin necesidad de equipos costosos de minería.
 
 <b>RBU coin  (RBU) Smart Contract: 0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
 https://bscscan.com/token/0xf512085aec83e834b9798275e8e93e963ffd1a5d
 
 Además para nuestros alumnos y para las pruebas preliminares de minería, creamos otra criptodivisa (sin valor) FMC coin, con su correspondiente billetera y su programa de minado para que puedan aprender a instalar una billetera, minar, recibir y transferir, cryptomonedas en un entorno seguro y tan simple de minar que puede hacerse desde una computadora de escritorio básica o un ordenador portátil.
 
-Si deseas contribuir con este programa puedes, crear o abrir tu cuenta en https://www.binance.com/es/ (que sería tu banco de confianza) y comprar unos pocos dólares en criptodivisa, específicamente BNB, que es la crypto oficial de Binance.
+Si deseas contribuir con este programa puedes crear o abrir, tu cuenta en https://www.binance.com/es/ (que sería tu banco de confianza) y comprar unos pocos dólares en criptodivisa, específicamente BNB, que es la crypto oficial de Binance.
 
-Crear o abrir tu billetera de Metamax, transferirte BNBs de Binans a Metamax,  agregar nuestra crypto (token) colocando el número de contrato 0xf512085aec83e834b9798275e8e93e963ffd1a5d
+Crear o abrir, tu billetera de Metamax, transferirte BNBs de Binance a Metamax,  agregar nuestra crypto (token) colocando el número de contrato <b>0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
 
 Y finalmente intercambiar BNB por RBU en la Blockchain https://pancakeswap.finance/swap
 
