@@ -43,7 +43,7 @@ Además para nuestros alumnos y para las pruebas preliminares de minería, cream
 
 Si desea contribuir con este programa puede crear o abrir, su cuenta en https://www.binance.com/es/ (que sería su banco de confianza) y comprar unos pocos dólares en criptodivisa, específicamente BNB, que es la crypto oficial de Binance.
 
-Crear o abrir, su billetera de Metamax, transferirse BNBs de Binance a Metamax,  agregar nuestra crypto (token) en su billetera Metamax colocando el número de contrato <b>0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
+Crear o abrir, su billetera de Metamax, transferirse BNBs de Binance a Metamax, agregar nuestra crypto (token) en su billetera Metamax colocando el número de contrato <b>0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
 
 Y finalmente intercambiar BNB por RBU en la Blockchain https://pancakeswap.finance/swap
 
