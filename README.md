@@ -58,6 +58,7 @@ Tratemos de lograr que la mayor cantidad de personas puedan lograr un ingreso pa
 <hr>
 <b> (1)  Que debería ser la RBU para la FMC:</b>
 
+
 1- *¿Todos tienen derecho a la Renta Básica Universal? Ricos y Pobres.*
 
 Desde luego, la RBU no es una ayuda para pobres o desempleados, es un derecho por ser copropietarios del suelo en el que nacieron y legítimos beneficiarios de la explotación de los recursos compartidos por todos los habitantes.
