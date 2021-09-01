@@ -15,7 +15,7 @@ Respecto de esto entendimos que debería haber un cambio en la forma de distribu
 
 De estas reflexiones surgió como posible solución la Renta Básica Universal para todos los habitantes de modo que comenzamos a investigar respecto de esta.
 
-Viendo que algunos países ya la han implementado y que así mismo la RBU estaría apoyada por personalidades destacadas del mundo económico y empresarial, entendimos que era factible y comenzamos a respondernos algunos interrogantes de los que extrajimos las siguiente conclusiones acerca de cómo debería implementarse esta RBU. (1)
+Viendo que algunos países ya la han implementado y que así mismo la RBU estaría apoyada por personalidades destacadas del mundo económico y empresarial, entendimos que era factible y comenzamos a respondernos algunos interrogantes de los que extrajimos las siguiente conclusiones acerca de cómo debería implementarse esta RBU. <b>(1)</b>
 
 Precipitada la necesidad de esta RBU por la pandemia, resolvimos dejar la arena académica para influir en el pensamiento de los líderes políticos del área de influencia de la Fundación MenteClara Internacional, es decir países hispanoparlantes y la India, para su urgente implementación. Único camino posible para que una persona desempleada, y por ende “cuentapropista”, pueda quedarse en aislamiento social sin trabajar.
 
