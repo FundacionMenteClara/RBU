@@ -41,15 +41,15 @@ https://bscscan.com/token/0xf512085aec83e834b9798275e8e93e963ffd1a5d
 
 Además para nuestros alumnos y para las pruebas preliminares de minería, creamos otra criptodivisa (sin valor) FMC coin, con su correspondiente billetera y su programa de minado para que puedan aprender a instalar una billetera, minar, recibir y transferir, cryptomonedas en un entorno seguro y tan simple de minar que puede hacerse desde una computadora de escritorio básica o un ordenador portátil.
 
-Si deseas contribuir con este programa puedes crear o abrir, tu cuenta en https://www.binance.com/es/ (que sería tu banco de confianza) y comprar unos pocos dólares en criptodivisa, específicamente BNB, que es la crypto oficial de Binance.
+Si desea contribuir con este programa puede crear o abrir, su cuenta en https://www.binance.com/es/ (que sería su banco de confianza) y comprar unos pocos dólares en criptodivisa, específicamente BNB, que es la crypto oficial de Binance.
 
-Crear o abrir, tu billetera de Metamax, transferirte BNBs de Binance a Metamax,  agregar nuestra crypto (token) colocando el número de contrato <b>0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
+Crear o abrir, su billetera de Metamax, transferirse BNBs de Binance a Metamax,  agregar nuestra crypto (token) en su billetera Metamax colocando el número de contrato <b>0xf512085aec83e834b9798275e8e93e963ffd1a5d</b>
 
 Y finalmente intercambiar BNB por RBU en la Blockchain https://pancakeswap.finance/swap
 
  
 
-Si está de acuerdo con este programa difundalo y ayúdenos a viralizarlo compartiendo en todas sus redes sociales.
+Si está de acuerdo con este programa difúndalo y ayúdenos a viralizarlo compartiendo en todas sus redes sociales.
 
 Tratemos de lograr que la mayor cantidad de personas puedan lograr un ingreso pasivo para aumentar su calidad de vida.
 <b>https://fundacionmenteclara.org.ar/RBU/</b>
